@@ -55,7 +55,7 @@ Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [httpie](htt
 
 - Criar Funcionario 
 ```
-$ http POST :<Porta>/api/v1/employee ame="Funcionario 1" age=99 photo="url/uploadfile"n
+$ http POST :<Porta>/api/v1/employee name="Funcionario 1" age=99 photo="url/uploadfile"
 
 [
   201 CREATED
